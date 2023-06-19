@@ -9,6 +9,9 @@ public class Main {
         smart.setKitchenState();
         smart.doKitchenWork();
 
+        //Composition allows to use other classes to compose a more concise object.
+        //Unlike Inheritance, it is flexible
+
 //        smart.setKitchenState();
 //        smart.getBrew().brewCoffee();
 //        smart.getRefrigerator().orderFood();
